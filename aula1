@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdio.lib>
+
+int main() {
+ printf("olá,mundo !" );
+ 
+ return 0;
+}
